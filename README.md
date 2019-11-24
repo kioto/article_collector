@@ -1,0 +1,2 @@
+# article_collector
+XMLから必要なテキスト情報を収集するプログラム
